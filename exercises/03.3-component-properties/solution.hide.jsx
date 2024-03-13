@@ -28,7 +28,7 @@ BootstrapCard.propTypes = {
 	imageUrl: PropType.string,
 	description: PropType.string,
 	buttonUrl: PropType.string,
-	buttonLabel: PropType.string,
+	buttonLabel: PropType.string
 };
 
 // 3) Use ReactDOM to add the component into then DOM element #myDiv
